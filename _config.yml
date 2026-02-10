@@ -1,0 +1,11 @@
+title: 백발혈선
+description: >-
+  퓨전 판타지 웹소설 '백발혈선' 공식 연재 플랫폼.
+  천하제일인 백발혈선의 이계 종횡기.
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+header_pages:
+  - characters.md
+  - world.md
